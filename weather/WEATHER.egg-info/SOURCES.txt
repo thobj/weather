@@ -1,0 +1,7 @@
+weather.py
+WEATHER.egg-info/PKG-INFO
+WEATHER.egg-info/SOURCES.txt
+WEATHER.egg-info/dependency_links.txt
+WEATHER.egg-info/entry_points.txt
+WEATHER.egg-info/requires.txt
+WEATHER.egg-info/top_level.txt
